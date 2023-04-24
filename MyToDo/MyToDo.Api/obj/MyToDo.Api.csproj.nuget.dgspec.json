@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj": {}
+    "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj": {
+    "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj",
         "projectName": "MyToDo.Api",
-        "projectPath": "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj",
+        "projectPath": "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo.Api\\MyToDo.Api.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo.Api\\obj\\",
+        "outputPath": "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86183\\AppData\\Roaming\\NuGet\\NuGet.Config",
