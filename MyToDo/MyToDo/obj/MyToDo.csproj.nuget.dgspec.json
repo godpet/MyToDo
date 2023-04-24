@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj": {}
+    "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj": {
+    "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj",
+        "projectUniqueName": "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj",
         "projectName": "MyToDo",
-        "projectPath": "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj",
+        "projectPath": "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo\\MyToDo.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\C#\\MyToDo\\MyToDo\\MyToDo\\MyToDo\\obj\\",
+        "outputPath": "E:\\Projects\\C#\\MyToDo1\\MyToDo\\MyToDo\\MyToDo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86183\\AppData\\Roaming\\NuGet\\NuGet.Config",
