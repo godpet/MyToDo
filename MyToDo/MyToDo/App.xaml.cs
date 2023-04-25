@@ -1,4 +1,6 @@
 ﻿using System.Windows;
+using MyToDo.ViewModels;
+using MyToDo.Views;
 using Prism.DryIoc;
 using Prism.Ioc;
 
@@ -15,7 +17,7 @@ namespace MyToDo
         /// <returns></returns>
         protected override Window CreateShell()
         {
-            return Container.Resolve<MainWindow>();
+            return Container.Resolve<MainView>();
         }
 
         /// <summary>
@@ -24,7 +26,11 @@ namespace MyToDo
         /// <param name="containerRegistry"></param>
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-            
+            //注册导航
+            containerRegistry.RegisterForNavigation<IndexView, IndexViewModel>();
+            containerRegistry.RegisterForNavigation<ToDoView, ToDoViewModel>();
+            containerRegistry.RegisterForNavigation<MemoView, MemoViewModel>();
+            containerRegistry.RegisterForNavigation<SettingsView, SettingsViewModel>();
         }
     }
 }
